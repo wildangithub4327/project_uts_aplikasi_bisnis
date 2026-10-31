@@ -1,0 +1,6 @@
+{
+  "name": "Bang Bin - Solusi Daur Ulang Plastik",
+  "description": "Website resmi Company Profile Bang Bin, komunitas kepedulian lingkungan dan rantai pasok daur ulang sampah plastik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
